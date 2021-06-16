@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hola, soy Mauricio Gonzalez y soy programador Full Stack'
     content: |
-      # Programmer | Software Development | Full Stack Developer |&#xA;&#xA;
+      ### Programmer | Software Development | Full Stack Developer |&#xA;&#xA;
     actions:
       - label: Let's talk
         url: /contact
