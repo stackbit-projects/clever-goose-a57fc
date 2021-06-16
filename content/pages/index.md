@@ -28,10 +28,10 @@ sections:
       - title: Programación Frontend
         content: >
           Sí buscabas un desarrollador Frontend llegaste al lugar índicado, Tus
-          pagínas no sufriran más porque le falta un desarrollador Frontend. 
+          pagínas no sufriran más porque le falta un desarrollador Frontend.
 
 
-          ReactJs | JavaScript | HTML
+          **ReactJs | JavaScript | HTML**
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
