@@ -26,10 +26,12 @@ sections:
     is_numbered: true
     grid_items:
       - title: Programación Frontend
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Sí buscabas un desarrollador Frontend llegaste al lugar índicado, Tus
+          pagínas no sufriran más porque le falta un desarrollador Frontend. 
+
+
+          ReactJs | JavaScript | HTML
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
