@@ -32,10 +32,9 @@ sections:
 
 
           **ReactJs | JavaScript | HTML**
-      - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+      - content: >
+          Empecé trabajando con Wordpress, y puedo decir que tengo experiencia
+          en el área de e-commerce 
         title: Desarrollo en Wordpress
       - title: Service Title
         content: >-
