@@ -8,7 +8,7 @@ sections:
     content: |
       ##### Programmer | Software Development | Full Stack Developer |&#xA;&#xA;
     actions:
-      - label: Let's talk
+      - label: Contactame
         url: /contact
         style: button
   - section_id: latest-projects
