@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: ¿Qué servicios ofrezco?
-    subtitle: An optional subtitle of the section
+    subtitle: '¡Gracias por preguntar! Te puedo ayudar con:'
     col_number: two
     is_numbered: true
     grid_items:
