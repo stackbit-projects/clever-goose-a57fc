@@ -81,7 +81,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: bit Exto ThemeStack
+  title: Home
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
