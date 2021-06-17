@@ -32,9 +32,9 @@ sections:
 
 
           **ReactJs | JavaScript | HTML**
-      - content: >
-          Empecé trabajando con Wordpress, y puedo decir que tengo experiencia
-          en el área de e-commerce 
+      - content: |
+          Empecé trabajando con Wordpress a niveles básicos. 
+          Mejor es tarde que nunca.
         title: Aprendiendo Desarrollo en Wordpress
       - title: Service Title
         content: >-
