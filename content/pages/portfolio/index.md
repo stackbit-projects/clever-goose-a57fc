@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: View my work now!
+subtitle: ¡Mira Mis Proyectos aquí!
 layout_style: mosaic
 seo:
   title: Portfolio
