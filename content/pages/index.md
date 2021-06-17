@@ -37,10 +37,9 @@ sections:
           Mejor es tarde que nunca.
         title: Aprendiendo Desarrollo en Wordpress
       - title: Python & Django
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Aprendí python y Django en mis primeros meses de experiencias en
+          proyectos personales. ¡Son otro mundo!
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
