@@ -36,7 +36,7 @@ sections:
           Empecé trabajando con Wordpress a niveles básicos. 
           Mejor es tarde que nunca.
         title: Aprendiendo Desarrollo en Wordpress
-      - title: Service Title
+      - title: Python & Django
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
