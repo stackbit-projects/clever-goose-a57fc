@@ -18,36 +18,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
-    type: section_grid
-    title: ¿Qué servicios ofrezco?
-    subtitle: '¡Gracias por preguntar! Te puedo ayudar con:'
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - title: Programación Frontend
-        content: >
-          Sí buscabas un desarrollador Frontend llegaste al lugar índicado, Tus
-          pagínas no sufriran más porque le falta un desarrollador Frontend.
-
-
-          **ReactJs | JavaScript | HTML**
-      - content: |
-          Empecé trabajando con Wordpress a niveles básicos. 
-          Mejor es tarde que nunca.
-        title: Aprendiendo Desarrollo en Wordpress
-      - title: Python & Django
-        content: >
-          Aprendí python y Django en mis primeros meses de experiencias en
-          proyectos personales. ¡Son otro mundo!
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
