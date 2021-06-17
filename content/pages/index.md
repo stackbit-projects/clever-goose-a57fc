@@ -35,7 +35,7 @@ sections:
       - content: >
           Empecé trabajando con Wordpress, y puedo decir que tengo experiencia
           en el área de e-commerce 
-        title: Desarrollo en Wordpress
+        title: Aprendiendo Desarrollo en Wordpress
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
