@@ -15,7 +15,7 @@ sections:
       ## ¿no quieres tu e-book gratis?
 
 
-      Llévate gratis reglas **No-Code que todo programador debe seguir**
+      Llévate gratis **Reglas No-Code que todo programador debe seguir**
     form_id: contactForm
     form_action: /thank-you
     form_fields:
