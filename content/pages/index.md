@@ -12,13 +12,6 @@ sections:
         url: /contact
         style: button
         icon: twitter
-      - label: lorem-ipsum
-        url: '#'
-        style: button
-        icon: linkedin
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
