@@ -15,7 +15,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: icon
-        icon: dribbble
+        icon: linkedin
         new_window: false
         no_follow: false
         type: action
