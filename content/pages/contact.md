@@ -4,12 +4,15 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: |
+    content: >
       ¡Wow!  Veo que te caíste en la pagina de contacto
 
-      ¿Quieres hablar conmigo sobre código para tu web?
 
-      contáctame en maugfalcon1@gmail.com
+      ¿Quieres hablar conmigo sobre código para tu web? contáctame en
+      maugfalcon1@gmail.com
+
+
+      No te pierdas todo el contenido del blog aquí
     form_id: contactForm
     form_action: /thank-you
     form_fields:
