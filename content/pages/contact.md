@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: |
-      ¡Wow! Veo que te caíste en la pagina de contacto
+      ¡Wow!  Veo que te caíste en la pagina de contacto
 
-      ¿Quieres hablar conmigo sobre código para tu web? 
+      ¿Quieres hablar conmigo sobre código para tu web?
 
       contáctame en maugfalcon1@gmail.com
     form_id: contactForm
