@@ -14,7 +14,7 @@ sections:
         icon: twitter
       - label: lorem-ipsum
         url: '#'
-        style: icon
+        style: button
         icon: linkedin
         new_window: false
         no_follow: false
