@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Contactame
         url: /contact
-        style: icon
+        style: button
         icon: twitter
   - section_id: latest-projects
     type: section_portfolio
