@@ -2,7 +2,7 @@
     "title": "Home",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "pink",
     "header": {
         "title": "Maucoder",
         "has_nav": true,
