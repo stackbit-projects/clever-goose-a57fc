@@ -4,10 +4,13 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: >+
+      ¡Wow! 
+
+
+      Veo que te caíste en la pagina de contacto ¿Quieres hablar conmigo sobre
+      código para tu web? contáctame en maugfalcon1@gmail.com
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
