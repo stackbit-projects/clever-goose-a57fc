@@ -1,9 +1,6 @@
 ---
 title: Haz cada line de código como la última
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+excerpt: 'Steve Jobs dijo una vez:'
 date: '2021-05-01'
 thumb_image_alt: A pile of books on the table
 image_alt: A pile of books on the table
