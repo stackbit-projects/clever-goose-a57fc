@@ -40,7 +40,7 @@ layout: post
 ---
 ##### Seguro creíste que esto está escrito para programadores, pero esto puedes usarlo cada vez que estas diseñando, escribiendo, produciendo. ¡incluso aprendiendo!&#xD;&#xA;Esta frase te sonara de algún lado:
 
-> “Vive cada día como si fuese el último”.
+> ##### “Vive cada día como si fuese el último”.
 >
 > ![](/\_static/app-assets/images/Steve%20Jobs%201955-2011.png)
 
