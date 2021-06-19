@@ -40,7 +40,7 @@ layout: post
 ---
 ##### Seguro creíste que esto está escrito para programadores, pero esto puedes usarlo cada vez que estas diseñando, escribiendo, produciendo. ¡incluso aprendiendo!&#xD;&#xA;Esta frase te sonara de algún lado:
 
-> “Vive cada día como si fuese el último”.
+> “Vive cada día como si fuese el último”. 
 
 ##### Lo único es que transforme un poco la frase para que sea menos “deprimente”. Y cambie la idea principal por algo que me apasione. Te pongo un ejemplo:
 
