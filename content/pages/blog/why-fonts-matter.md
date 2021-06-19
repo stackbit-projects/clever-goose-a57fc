@@ -37,6 +37,7 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: post
+image: /images/smart-broccoli.png
 ---
 ##### Seguro creíste que esto está escrito para programadores, pero esto puedes usarlo cada vez que estas diseñando, escribiendo, produciendo. ¡incluso aprendiendo!&#xD;&#xA;Esta frase te sonara de algún lado:
 
