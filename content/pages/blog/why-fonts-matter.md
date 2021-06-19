@@ -43,7 +43,7 @@ image: /images/smart-broccoli.png
 
 > ##### “Vive cada día como si fuese el último”.
 >
-> ![](/\_static/app-assets/images/Steve%20Jobs%201955-2011.png)
+>
 
 ##### Lo único es que transforme un poco la frase para que sea menos “deprimente”. Y cambie la idea principal por algo que me apasione. Te pongo un ejemplo:
 
