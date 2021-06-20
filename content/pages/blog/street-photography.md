@@ -1,5 +1,4 @@
 ---
-title: Understanding Street Photography
 date: '2019-03-10'
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/8.jpg
