@@ -3,7 +3,6 @@ subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
 date: '2017-03-26'
-thumb_image: images/10_thumb.jpg
 thumb_image_alt: Modern white table
 seo:
   title: How To Choose An Interior Designer
