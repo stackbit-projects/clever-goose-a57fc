@@ -1,9 +1,6 @@
 ---
 title: The function of design is letting design function
 subtitle: 'A interesting tale about function of design '
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
 thumb_image_alt: Library shelves
 image: images/13.jpg
