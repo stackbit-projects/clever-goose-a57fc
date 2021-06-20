@@ -1,7 +1,4 @@
 ---
-excerpt: >-
-  Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
-  tristique sollicitudin nibh sit amet commodo nulla facilisi.
 date: '2018-01-09'
 thumb_image: images/6_thumb.jpg
 thumb_image_alt: A handheld game console on a yellow background
