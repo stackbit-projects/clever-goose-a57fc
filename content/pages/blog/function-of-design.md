@@ -1,5 +1,4 @@
 ---
-title: The function of design is letting design function
 subtitle: 'A interesting tale about function of design '
 date: '2018-01-15'
 thumb_image_alt: Library shelves
