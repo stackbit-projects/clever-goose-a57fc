@@ -1,10 +1,6 @@
 ---
 title: Green is my favorite color
 subtitle: 'Apparently, green is my favorite color.'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
 date: '2018-01-11'
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
