@@ -1,5 +1,4 @@
 ---
-title: What are some of the best designed video games
 excerpt: >-
   Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
   tristique sollicitudin nibh sit amet commodo nulla facilisi.
