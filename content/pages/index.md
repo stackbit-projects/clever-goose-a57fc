@@ -22,7 +22,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Recomendaciones
-    subtitle: An optional subtitle of the section
+    subtitle: Personas que confían en Mauricio
     col_number: three
     testimonials:
       - author: Sean Salazar
