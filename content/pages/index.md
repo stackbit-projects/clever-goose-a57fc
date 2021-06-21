@@ -24,13 +24,7 @@ sections:
     title: Recomendaciones
     subtitle: Personas que confían en Mauricio
     col_number: three
-    testimonials:
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+    testimonials: []
   - section_id: latest-posts
     type: section_posts
     title: Blog
