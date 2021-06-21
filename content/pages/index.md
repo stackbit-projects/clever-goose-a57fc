@@ -25,9 +25,6 @@ sections:
     subtitle: Personas que confían en Mauricio
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
