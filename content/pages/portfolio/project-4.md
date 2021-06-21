@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Proyecto 4
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image_alt: A table tennis racket on a pink background
