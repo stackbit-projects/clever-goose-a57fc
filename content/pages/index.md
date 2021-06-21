@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: Recomendaciones
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
