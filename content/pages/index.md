@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Algunos de Mis Proyectos
     projects_number: 6
-    view_all_label: View All
+    view_all_label: ¡Quiero ver más!
     view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
