@@ -29,7 +29,7 @@ sections:
         avatar_alt: lorem-ipsum
         content: >-
           Tiene un gran nivel de compromiso en el trabajo y es muy colaborador
-          con sus equipos, Realmente confiable
+          con sus equipos, Realmente confiable.
         type: testimonial
   - section_id: latest-posts
     type: section_posts
