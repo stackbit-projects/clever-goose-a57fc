@@ -34,5 +34,6 @@
             }
         ]
     },
-    "domain": "https://clever-goose-a57fc.netlify.app"
+    "domain": "https://clever-goose-a57fc.netlify.app",
+    "favicon": "/images/10.jpg"
 }
