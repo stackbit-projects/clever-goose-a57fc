@@ -24,7 +24,11 @@ sections:
     title: Recomendaciones
     subtitle: Personas que confían en Mauricio
     col_number: three
-    testimonials: []
+    testimonials:
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
   - section_id: latest-posts
     type: section_posts
     title: Blog
