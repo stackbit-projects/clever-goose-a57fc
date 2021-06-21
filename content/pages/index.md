@@ -25,7 +25,7 @@ sections:
     subtitle: Personas que confían en Mauricio
     col_number: three
     testimonials:
-      - author: lorem-ipsum
+      - author: Ysbelia Falcon
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
