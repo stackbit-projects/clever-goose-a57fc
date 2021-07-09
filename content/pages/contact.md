@@ -36,7 +36,7 @@ sections:
         options:
           - Charlar
           - Requiero Servicios
-          - Other
+          - null
         default_value: Tu razón
       - input_type: textarea
         name: message
