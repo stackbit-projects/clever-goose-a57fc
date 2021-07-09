@@ -30,7 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-La programación es realmente mágica, que personas solo por estar conectadas a internet creen cosas tan increíbles parece arte de magia. Aunque para nuestro agrado ( O lamentos si amas la magia ), son muchas personas que dedican su vida a cambiar el mundo como nunca antes, 
+La programación es realmente mágica, que personas solo por estar conectadas a internet creen cosas tan increíbles parece arte de magia. Aunque para nuestro agrado ( O lamentos si amas la magia ), son muchas personas que dedican su vida a cambiar el mundo como nunca antes,
 
 > Donde quieran que existan personas inteligentes, nunca habrán puertas cerradas - Steve Wozniak
 
@@ -40,4 +40,4 @@ A eso me dedico, soy desarrollador Backend y desarrollo lógica de paginas y ser
 
 Comunícate conmigo si quieres charlar de algún proyecto o duda que tengas acerca de programación, siempre estoy dispuesto a ayudar.
 
-*Y como aprecio tu tiempo, ¡ gracias por leer!.*
+*Y como aprecio tu tiempo, ¡gracias por leer!.*
