@@ -12,7 +12,11 @@ sections:
       maugfalcon1@gmail.com
 
 
-      ****
+      Si quieres charlar acerca de algo aquí también puedes hacerlo. No
+      recibirás el contenido exclusivo ni emails.
+
+
+      ***
     form_id: contactForm
     form_action: /thank-you
     form_fields:
