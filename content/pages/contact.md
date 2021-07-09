@@ -34,7 +34,7 @@ sections:
         name: subject
         label: Motivo
         options:
-          - Error on the site
+          - Charlar
           - Sponsorship
           - Other
         default_value: Tu razón
