@@ -35,7 +35,7 @@ sections:
         label: Motivo
         options:
           - Charlar
-          - fO
+          - Oferta
           - Other
         default_value: Tu razón
       - input_type: textarea
