@@ -30,11 +30,14 @@ seo:
       relativeUrl: true
 layout: page
 ---
+La programación es realmente mágica, que personas solo por estar conectadas a internet creen cosas tan increíbles parece arte de magia. Aunque para nuestro agrado ( O lamentos si amas la magia ), son muchas personas que dedican su vida a cambiar el mundo como nunca antes, 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> Donde quieran que existan personas inteligentes, nunca habrán puertas cerradas - Steve Wozniak
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+En solicitud de esto, me dedico a programar, ha crear entornos (lógicos por supuesto), para ti, personas que navegan en busca de información y al menos algo de funcionalidad mientras lo hacen.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+A eso me dedico, soy desarrollador Backend y desarrollo lógica de paginas y servidores, me apasiona toda la industria digital. te sorprendería lo mucho que me gusta todo acerca de marketing y redes sociales.
 
-*Thank You for reading!*
+Comunícate conmigo si quieres charlar de algún proyecto o duda que tengas acerca de programación, siempre estoy dispuesto a ayudar.
+
+*Y como aprecio tu tiempo, ¡ gracias por leer!.*
