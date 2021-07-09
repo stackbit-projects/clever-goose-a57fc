@@ -47,7 +47,7 @@ sections:
         label: >-
           Yo entiendo que puedo ser contactado, recibir emails, formularios o
           preguntas de esta pagina.
-    submit_label: Quiero
+    submit_label: ¡Enviado!
 seo:
   title: Contact
   description: This is the contact page
