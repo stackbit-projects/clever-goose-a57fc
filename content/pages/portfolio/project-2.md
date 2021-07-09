@@ -1,7 +1,7 @@
 ---
 title: Proyecto 2
 subtitle: Optional Project Subtitle
-date: '2021-07-30'
+date: '2021-08-30'
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
