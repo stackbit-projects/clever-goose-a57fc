@@ -36,7 +36,7 @@ sections:
         options:
           - Charlar
           - Requiero Servicios
-          - null
+          - Comentar error
         default_value: Tu razón
       - input_type: textarea
         name: message
