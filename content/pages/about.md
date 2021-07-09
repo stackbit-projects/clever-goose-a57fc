@@ -1,6 +1,6 @@
 ---
 title: Sobre mi
-subtitle: This is a short page about us and our work.
+subtitle: De vez en cuando hay que ponerse tecnico.
 image_alt: A man taking a picture
 seo:
   title: About Us
