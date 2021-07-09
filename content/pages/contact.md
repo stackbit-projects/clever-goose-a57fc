@@ -35,7 +35,7 @@ sections:
         label: Motivo
         options:
           - Charlar
-          - Oferta
+          - Requiero Servicios
           - Other
         default_value: Tu razón
       - input_type: textarea
