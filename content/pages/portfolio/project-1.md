@@ -1,5 +1,5 @@
 ---
-title: Proyecto 1
+title: Logica de Ajedrez
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
