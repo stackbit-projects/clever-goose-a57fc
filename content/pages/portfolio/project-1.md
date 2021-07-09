@@ -34,11 +34,18 @@ layout: project
 thumb_image: /images/80b69925a02c5bc2087df3c9b628b409.jpg
 image: /images/polite-comet.jpg
 ---
+Un buen juego de ajedrez se basa en no solo llevar piezas de un lugar a otro, **se trata le lógica**, y quienes mejor para hablar de lógica que nuestras computadoras.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+> El ajedrez demanda concentración total y amor por el juego. Tienes que tener espíritu de lucha. (...)
+> el ajedrez requiere concentración total.
+>
+>
+> *-Bobby FIscher - Campeón mundial*
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+Desarrolle una lógica computarizada del juego de ajedrez, **No se trata de una inteligencia artificial**, hablamos de un software que muestra que jugadas puede hacer el jugador, si son validas y si esta o no en Mate.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Este proyecto fue desarrollado en python casi al 100% si ignoramos el README.md
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Como una característica es que lo hice pensando en programar objetos reales, como una buena practica de programador.
+
+Si estás interesado en verlo, te dejo nuestro repositorio open source:  <https://github.com/maucoderGit/Chess>
