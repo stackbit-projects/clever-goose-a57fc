@@ -8,12 +8,12 @@ sections:
       ¡Wow!  Veo que te caíste en la pagina de contacto
 
 
-      ¿Quieres hablar conmigo sobre código para tu web? contáctame en
+      ¿Quieres hablar sobre código para tu web o algún proyecto? contáctame en
       maugfalcon1@gmail.com
 
 
       Si quieres charlar acerca de algo aquí también puedes hacerlo. No
-      recibirás el contenido exclusivo ni emails.
+      recibirás el contenido exclusivo ni emails, solo lo que necesites.
 
 
       ***
