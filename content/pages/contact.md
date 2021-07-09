@@ -23,7 +23,7 @@ sections:
       - input_type: text
         name: name
         label: Nombre y apellido
-        default_value: lAM
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
