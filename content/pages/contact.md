@@ -46,7 +46,7 @@ sections:
         name: consent
         label: >-
           Yo entiendo que puedo ser contactado, recibir emails, formularios o
-          proguntas que p
+          preguntas de esta pagina.
     submit_label: Send Message
 seo:
   title: Contact
