@@ -28,7 +28,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: elle oerroc uT
+        default_value: ¿
         is_required: true
       - input_type: select
         name: subject
