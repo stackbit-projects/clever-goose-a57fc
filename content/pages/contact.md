@@ -33,7 +33,7 @@ sections:
       - input_type: select
         name: subject
         label: Motivo
-        default_value: leR
+        default_value: Realmente es necesario?
         options:
           - Error on the site
           - Sponsorship
