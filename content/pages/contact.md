@@ -35,7 +35,7 @@ sections:
         label: Motivo
         options:
           - Charlar
-          - Sponsorship
+          - atrefO
           - Other
         default_value: Tu razón
       - input_type: textarea
