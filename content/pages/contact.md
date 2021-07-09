@@ -37,6 +37,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        default_value: Tu razón
       - input_type: textarea
         name: message
         label: Message
