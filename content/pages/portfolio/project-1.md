@@ -1,6 +1,6 @@
 ---
 title: Logica de Ajedrez
-subtitle: Un juego de ajedrez en todo su esplendor
+subtitle: Un juego de ajedrez en todo su esplendor.
 date: '2021-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
