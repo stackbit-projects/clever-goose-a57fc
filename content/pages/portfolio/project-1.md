@@ -3,7 +3,7 @@ title: Logica de Ajedrez
 subtitle: Un juego de ajedrez en todo su esplendor.
 date: '2021-05-10'
 thumb_image_alt: 'Chess table, and pieces'
-image_alt: Chess table
+image_alt: Chess in a table
 seo:
   title: Project Title 1
   description: This is the project 1 description
