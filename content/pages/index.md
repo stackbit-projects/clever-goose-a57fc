@@ -9,7 +9,7 @@ sections:
       ##### Programmer | Python Developmer | Full Stack Developer |
       back-end&#xA;&#xA;
     actions:
-      - label: Contactame
+      - label: < Contacto >
         url: /contact
         style: button
         icon: twitter
