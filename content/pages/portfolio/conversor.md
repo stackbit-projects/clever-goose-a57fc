@@ -3,7 +3,7 @@ title: 'Paint '
 subtitle: 'Necesitabas uno simple y remoto '
 date: '2021-06-01'
 thumb_image_alt: An orange on a blue background
-image_alt: An orange on a blue background
+image_alt: nUu
 seo:
   title: Project Title 2
   description: This is the project 2 description
@@ -32,6 +32,7 @@ seo:
       relativeUrl: true
 layout: project
 thumb_image: /images/16750177017_43df7ebc1c_z.jpg
+image: /images/scientific-plankton.jpg
 ---
 
 Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.
