@@ -30,7 +30,7 @@
             {
                 "label": "Contactame",
                 "url": "/contact/",
-                "style": "button"
+                "style": "link"
             }
         ]
     },
