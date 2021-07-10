@@ -22,7 +22,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Recomendaciones
-    subtitle: Personas que confían en Mauricio
+    subtitle: 'Algunas personas que confían en Mauricio:'
     col_number: three
     testimonials:
       - author: Ysbelia Falcon
