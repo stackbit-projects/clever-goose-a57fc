@@ -63,7 +63,7 @@
                 "label": "Twitter",
                 "url": "#https://www.twitter.com/maucoder",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "twitter",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
