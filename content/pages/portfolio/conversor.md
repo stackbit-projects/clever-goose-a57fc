@@ -1,6 +1,6 @@
 ---
 title: 'Paint '
-subtitle: 'Si necesitabas uno simple y remoto '
+subtitle: 'Necesitabas uno simple y remoto '
 date: '2021-08-07'
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
