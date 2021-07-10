@@ -71,7 +71,7 @@
             {
                 "label": "Linkedin",
                 "url": "#https://www.linkedin.com/in/mauricio-ale-gonzalez/",
-                "style": "link",
+                "style": "icon",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false,
