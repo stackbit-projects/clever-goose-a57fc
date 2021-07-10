@@ -1,5 +1,5 @@
 ---
-title: Paint
+title: 'Paint in '
 subtitle: Optional Project Subtitle
 date: '2021-08-07'
 thumb_image_alt: An orange on a blue background
