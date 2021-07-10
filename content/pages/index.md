@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Mauricio Gonzalez y soy programador Full Stack'
-    content: |
-      ##### Programmer | Software Development | Full Stack Developer |&#xA;&#xA;
+    content: >
+      ##### Programmer | Python Developmer | Full Stack Developer |
+      back-end&#xA;&#xA;
     actions:
       - label: Contactame
         url: /contact
