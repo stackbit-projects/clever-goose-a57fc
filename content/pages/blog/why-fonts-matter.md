@@ -1,7 +1,7 @@
 ---
 title: Haz cada línea de código como la última
 date: '2021-05-01'
-thumb_image_alt: A pile of books on the table
+thumb_image_alt: Steve Jobs thinking
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
