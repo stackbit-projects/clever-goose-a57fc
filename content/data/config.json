@@ -60,7 +60,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Twitter",
                 "url": "#",
                 "style": "link",
                 "icon": "dribbble",
