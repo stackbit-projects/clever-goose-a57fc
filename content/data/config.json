@@ -41,7 +41,7 @@
             {
                 "label": "Home",
                 "url": "#https://www.maucoder.com",
-                "style": "icon",
+                "style": "link",
                 "icon": "twitter",
                 "new_window": true,
                 "no_follow": true,
