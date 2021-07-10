@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, soy Mauricio Gonzalez y soy programador Full Stack'
+    title: 'Hola, soy Mauricio González un programador Full Stack'
     content: >
       ##### Programmer | Python Developmer | Full Stack Developer |
       back-end&#xA;&#xA;
