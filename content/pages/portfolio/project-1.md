@@ -2,7 +2,7 @@
 title: Logica de Ajedrez
 subtitle: Un juego de ajedrez en todo su esplendor.
 date: '2021-05-10'
-thumb_image_alt: Chess game
+thumb_image_alt: 'Chess table, and pieces'
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
