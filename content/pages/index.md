@@ -34,7 +34,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Blog
-    subtitle: Mira alguna de nuestras publicaciones
+    subtitle: Mira alguna de mis publicaciones
     posts_number: 3
     col_number: three
     actions:
