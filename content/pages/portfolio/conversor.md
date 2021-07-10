@@ -3,7 +3,6 @@ title: 'Paint '
 subtitle: 'Necesitabas uno simple y remoto '
 date: '2021-06-01'
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
