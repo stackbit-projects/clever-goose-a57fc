@@ -37,7 +37,17 @@
     "domain": "https://clever-goose-a57fc.netlify.app",
     "footer": {
         "content": "Para creadores y amantes del Tech 💜",
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "has_social": true,
         "social_links": [],
         "type": "footer"
