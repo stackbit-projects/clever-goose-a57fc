@@ -42,13 +42,6 @@ sections:
       - label: ¡Vamos al blog!
         url: blog
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
 seo:
   title: Home
   description: The preview of the Exto theme
