@@ -34,5 +34,12 @@
             }
         ]
     },
-    "domain": "https://clever-goose-a57fc.netlify.app"
+    "domain": "https://clever-goose-a57fc.netlify.app",
+    "footer": {
+        "content": "lorem-ipsum",
+        "links": [],
+        "has_social": true,
+        "social_links": [],
+        "type": "footer"
+    }
 }
