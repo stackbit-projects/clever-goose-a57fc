@@ -50,7 +50,7 @@
             {
                 "label": "GitHub",
                 "url": "#https://www.github.com/maucoder/",
-                "style": "icon",
+                "style": "link",
                 "icon": "github",
                 "new_window": true,
                 "no_follow": true,
