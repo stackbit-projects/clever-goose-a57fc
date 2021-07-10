@@ -52,8 +52,8 @@
                 "url": "#https://www.instagram.com/maucoder/",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": false,
-                "no_follow": false,
+                "new_window": true,
+                "no_follow": true,
                 "type": "action"
             }
         ],
