@@ -1,6 +1,5 @@
 ---
 title: Haz cada line de código como la última
-excerpt: "Steve Jobs dijo una vez: \"Vive cada día como sí fuera el último\".\_ \_ \_ \_ \_ \_ \_ \_ \_ \_Adaptemos esto un poco para nuestra industria y creemos algo increíble"
 date: '2021-05-01'
 thumb_image_alt: A pile of books on the table
 image_alt: A pile of books on the table
