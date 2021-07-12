@@ -61,7 +61,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "#https://www.twitter.com/maucoder",
+                "url": "https://www.twitter.com/maucoder",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": false,
