@@ -70,7 +70,7 @@
             },
             {
                 "label": "Linkedin",
-                "url": "#https://www.linkedin.com/in/mauricio-ale-gonzalez/",
+                "url": "https://www.linkedin.com/in/mauricio-ale-gonzalez/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": false,
