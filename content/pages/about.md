@@ -34,7 +34,7 @@ La programación es realmente mágica, que personas solo por estar conectadas a 
 
 > Donde quieran que existan personas inteligentes, nunca habrán puertas cerradas - Steve Wozniak
 
-En solicitud de esto, me dedico a programar, ha crear entornos (lógicos por supuesto), para ti, personas que navegan en busca de información y al menos algo de funcionalidad mientras lo hacen.
+En solicitud de esto, me dedico a programar, para crear entornos (lógicos por supuesto), para ti, personas que navegan en busca de información y al menos algo de funcionalidad mientras lo hacen.
 
 A eso me dedico, soy desarrollador Backend y desarrollo lógica de paginas y servidores, me apasiona toda la industria digital. te sorprendería lo mucho que me gusta todo acerca de marketing y redes sociales.
 
