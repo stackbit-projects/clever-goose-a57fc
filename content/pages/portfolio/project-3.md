@@ -1,6 +1,6 @@
 ---
 title: Licoreria Web
-subtitle: 'Pagina web de la licoreria '
+subtitle: 'Pagina web de la licorería '
 date: '2019-04-08'
 thumb_image_alt: A yellow retro telephone on a yellow background
 image_alt: A yellow retro telephone on a yellow background
