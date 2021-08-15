@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, soy Mauricio González.'
+    title: 'Hola, soy Mauricio González. Front-end Developer'
     content: >
       ##### Programmer | Python Developmer | Full Stack Developer |
       back-end&#xA;&#xA;
