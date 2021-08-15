@@ -44,7 +44,9 @@ sections:
         style: button
 seo:
   title: Home
-  description: The preview of the Exto theme
+  description: >-
+    Pagina web de Mauricio Gonzalez, con todas las entradas al blog y reseñas de
+    productos en tecnología :D
   extra:
     - name: 'og:type'
       value: website
