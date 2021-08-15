@@ -1,7 +1,7 @@
 ---
 title: Licoreria Web
 subtitle: Pagina web de un licorería.
-date: '2021-06-08'
+date: '2021-07-08'
 thumb_image_alt: A yellow retro telephone on a yellow background
 image_alt: A yellow retro telephone on a yellow background
 seo:
