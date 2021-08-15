@@ -1,5 +1,5 @@
 ---
-title: Licorería Web
+title: Licorería Web con CSS
 subtitle: Pagina web de un licorería.
 date: '2021-07-08'
 thumb_image_alt: A yellow retro telephone on a yellow background
