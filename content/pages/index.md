@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Mauricio González. Front-end Developer'
-    content: >
-      ##### Programmer | Python Developmer | Full Stack Developer |
-      back-end&#xA;&#xA;
+    content: |
+      ##### Programmer | Front-end | JavaScript &#xA;
     actions:
       - label: < Contacto >
         url: /contact
