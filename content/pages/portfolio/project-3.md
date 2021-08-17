@@ -1,6 +1,6 @@
 ---
 title: Licorería Web con CSS y HTML
-subtitle: Pagina web de un licorería.
+subtitle: Pagina web de licorería.
 date: '2021-07-08'
 thumb_image_alt: Login web page
 image_alt: A yellow retro telephone on a yellow background
