@@ -6,7 +6,7 @@ thumb_image_alt: Login web page
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
-  description: This is the project 3 description
+  description: Elaboración de la pagina web de Licorería la Bartola en HTML y CSS
   extra:
     - name: 'og:type'
       value: website
