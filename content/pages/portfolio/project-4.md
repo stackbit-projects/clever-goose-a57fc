@@ -2,7 +2,7 @@
 title: Matemáticas
 subtitle: Página web de matemáticas
 date: '2019-02-26'
-thumb_image_alt: A table tennis racket on a pink background
+thumb_image_alt: Banner Matemáticas
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
