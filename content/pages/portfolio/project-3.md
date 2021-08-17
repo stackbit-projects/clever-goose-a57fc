@@ -35,7 +35,7 @@ thumb_image: /images/2021-08-14.png
 ---
 **Licorería La Bartola**, un pequeño local en Venezuela donde venden alimentos y víveres, utensilios y evidentemente Licores. Trabajo allí actualmente como community manager, y decidí emprender este pequeño pero interesante proyecto personal.
 
-Hice la pagina web, con animaciones CSS y HTML, no hubo ningún uso de JavaScript aquí. Utilice como referencias al proyecto de **Platzi, **Platzi video, por eso se ve el logo el algunos detalles.
+Hice la pagina web, con animaciones CSS y HTML, no hubo ningún uso de JavaScript aquí. Utilice como referencias al proyecto de **Platzi,** Platzi video, por eso se ve el logo el algunos detalles.
 
 Si quieres ver el proyecto completo, esta en <https://maucodergit.github.io/Web-page/> donde podrás ver todo, de forma más visual y agradable que una simple descripción.
 
