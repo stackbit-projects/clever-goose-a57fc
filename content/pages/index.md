@@ -43,9 +43,8 @@ sections:
         style: button
 seo:
   title: Mauricio Alejandro Gonzalez
-  description: >-
-    Pagina web de Mauricio Gonzalez, con todas las entradas al blog y reseñas de
-    productos, portafolio y servicios...
+  description: |
+    Frontend Developer, Trabajo con JavaScript, HTML y CSS.
   extra:
     - name: 'og:type'
       value: website
