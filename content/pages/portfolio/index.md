@@ -3,7 +3,7 @@ title: Porfolio
 subtitle: ¡Mira Mis Proyectos aquí!
 layout_style: mosaic
 seo:
-  title: Porfolio
+  title: Portafolio y Proyectos de Maucoder
   description: >-
     Proyectos y trabajos que Mauricio Alejandro Gonzalez ha participado o ha
     realizado por su cuenta
