@@ -5,7 +5,7 @@ date: '2021-07-08'
 thumb_image_alt: Login web page
 image_alt: Registro la bartola
 seo:
-  title: Project Title 3
+  title: 'E-comerce '
   description: Elaboración de la pagina web de Licorería la Bartola en HTML y CSS
   extra:
     - name: 'og:type'
