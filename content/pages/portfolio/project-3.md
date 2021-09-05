@@ -1,5 +1,5 @@
 ---
-title: Licorería Web con CSS y HTML
+title: E-commerce con HTML y CSS
 subtitle: Pagina web de licorería.
 date: '2021-07-08'
 thumb_image_alt: Login web page
