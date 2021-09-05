@@ -43,8 +43,9 @@ sections:
         style: button
 seo:
   title: Mauricio Alejandro Gonzalez
-  description: |
-    Frontend Developer, Trabajo con JavaScript, HTML y CSS.
+  description: >-
+    Frontend Developer, Trabajo con JavaScript, HTML y CSS. Desarrollo Web/Web
+    Development para tus e-commerce y web pages.
   extra:
     - name: 'og:type'
       value: website
