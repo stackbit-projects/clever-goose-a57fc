@@ -3,7 +3,7 @@ title: Porfolio
 subtitle: ¡Mira Mis Proyectos aquí!
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Porfolio
   description: This is the portfolio page
   extra:
     - name: 'og:type'
