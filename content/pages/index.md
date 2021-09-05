@@ -45,7 +45,7 @@ seo:
   title: Mauricio Alejandro Gonzalez
   description: >-
     Pagina web de Mauricio Gonzalez, con todas las entradas al blog y reseñas de
-    productos en tecnología :D
+    productos, portafolio y servicios...
   extra:
     - name: 'og:type'
       value: website
