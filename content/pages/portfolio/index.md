@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Porfolio
 subtitle: ¡Mira Mis Proyectos aquí!
 layout_style: mosaic
 seo:
