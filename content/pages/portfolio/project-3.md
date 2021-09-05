@@ -6,7 +6,9 @@ thumb_image_alt: Login web page
 image_alt: Registro la bartola
 seo:
   title: E-commerce en HTML y CSS
-  description: Elaboración de la pagina web de Licorería la Bartola en HTML y CSS
+  description: >-
+    Todo negocio necesita tener una presencia online, ¿que mejor que un
+    e-commerce?
   extra:
     - name: 'og:type'
       value: website
