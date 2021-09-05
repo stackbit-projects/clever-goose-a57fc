@@ -4,7 +4,9 @@ subtitle: ¡Mira Mis Proyectos aquí!
 layout_style: mosaic
 seo:
   title: Porfolio
-  description: This is the portfolio page
+  description: >-
+    Proyectos y trabajos que Mauricio Alejandro Gonzalez ha participado o ha
+    realizado por su cuenta
   extra:
     - name: 'og:type'
       value: website
