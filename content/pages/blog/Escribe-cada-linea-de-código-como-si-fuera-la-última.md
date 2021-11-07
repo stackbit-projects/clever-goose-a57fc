@@ -4,7 +4,7 @@ date: '2021-05-01'
 thumb_image_alt: Steve Jobs thinking
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: Haz cada línea de código como la última
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
