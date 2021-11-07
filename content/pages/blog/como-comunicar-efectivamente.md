@@ -1,6 +1,6 @@
 ---
 title: Cómo comunicar ideas efectivamente
-date: '2021-05-10'
+date: '2021-02-10'
 thumb_image_alt: Steve Jobs thinking
 image_alt: A pile of books on the table
 seo:
