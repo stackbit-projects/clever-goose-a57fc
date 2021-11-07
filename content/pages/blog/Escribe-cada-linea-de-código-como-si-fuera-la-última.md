@@ -6,8 +6,7 @@ image_alt: A pile of books on the table
 seo:
   title: Haz cada línea de código como la última
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    Vivir cada día como si fuera el último, Steve Jobs presento esta frase y 
   extra:
     - name: 'og:type'
       value: article
