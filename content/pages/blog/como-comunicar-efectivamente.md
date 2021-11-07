@@ -40,6 +40,7 @@ thumb_image: /images/pexels-ketut-subiyanto-4126743.jpg
 excerpt: >-
   Comunicar tus ideas puede llegar a ser complejo, e incluso agotador, aunque
   hay cientos de formas de hacerlo de manera efectiva.
+image: /images/pexels-fauxels-3183150.jpg
 ---
 Todos tenemos ideas, algunas tal vez parezcan más brillantes que otras, aunque toda eso siempre (bueno, casi siempre) recae en una simple cosa, la comunicación.
 
