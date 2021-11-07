@@ -1,7 +1,7 @@
 ---
 title: Cómo comunicar ideas efectivamente
 date: '2021-10-30'
-thumb_image_alt: Steve Jobs thinking
+thumb_image_alt: Foto de Ketut Subiyanto en Pexels
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
