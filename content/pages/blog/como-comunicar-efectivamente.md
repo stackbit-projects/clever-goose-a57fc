@@ -4,7 +4,7 @@ date: '2021-10-30'
 thumb_image_alt: Foto de Ketut Subiyanto en Pexels
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: C99
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
