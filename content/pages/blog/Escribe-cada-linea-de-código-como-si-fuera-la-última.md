@@ -6,7 +6,7 @@ image_alt: A pile of books on the table
 seo:
   title: Haz cada línea de código como la última
   description: >-
-    Vivir cada día como si fuera el último, Steve Jobs presento esta frase y 
+    Vivir cada día como si fuera el último, Steve Jobs presento esta frase y tiene mucha razón en cualquien ambito, incluso el código.
   extra:
     - name: 'og:type'
       value: article
