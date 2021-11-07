@@ -38,9 +38,6 @@ seo:
 layout: post
 image: /images/smart-broccoli.png
 thumb_image: /images/graceful-parsley.png
-excerpt: >-
-  Steve Jobs dijo una vez: "Vive cada día como sí fuera el último". Adaptemos
-  esto un poco para nuestra industria y creemos algo increíble...
 ---
 ##### Seguro creíste que esto está escrito para programadores, pero esto puedes usarlo cada vez que estas diseñando, escribiendo, produciendo. ¡incluso aprendiendo!&#xD;&#xA;Esta frase te sonara de algún lado:
 
