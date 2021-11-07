@@ -38,9 +38,7 @@ seo:
 layout: post
 image: /images/smart-broccoli.png
 thumb_image: /images/graceful-parsley.png
-excerpt: >-
-  Steve Jobs dijo una vez: "Vive cada día como sí fuera el último". Adaptemos
-  esto un poco para nuestra industria y creemos algo increíble...
+excerpt: Comunicar ideas es algo básico cuando queremos tener result
 ---
 Todos tenemos ideas, algunas tal vez parezcan más brillantes que otras, aunque toda eso siempre (bueno, casi siempre) recae en una simple cosa, la comunicación.
 
