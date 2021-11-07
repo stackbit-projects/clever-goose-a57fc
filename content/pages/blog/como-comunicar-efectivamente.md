@@ -6,8 +6,7 @@ image_alt: A pile of books on the table
 seo:
   title: Comunicar ideas efectivamente.
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    Descubre tips de como comunicar correctamente tus ideas para que lleguen a la comprensión de todos.
   extra:
     - name: 'og:type'
       value: article
