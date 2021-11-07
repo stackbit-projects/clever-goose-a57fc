@@ -36,7 +36,6 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: post
-image: /images/smart-broccoli.png
 thumb_image: /images/pexels-ketut-subiyanto-4126743.jpg
 excerpt: >-
   Comunicar tus ideas puede llegar a ser complejo, e incluso agotador, aunque
