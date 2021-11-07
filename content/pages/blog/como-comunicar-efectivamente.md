@@ -38,7 +38,9 @@ seo:
 layout: post
 image: /images/smart-broccoli.png
 thumb_image: /images/graceful-parsley.png
-excerpt: Comunicar ideas es algo básico cuando queremos tener result
+excerpt: >-
+  Comunicar tus ideas puede llegar a ser complejo, e incluso agotador, aunque
+  hay cientos de formas de hacerlo de manera efectiva.
 ---
 Todos tenemos ideas, algunas tal vez parezcan más brillantes que otras, aunque toda eso siempre (bueno, casi siempre) recae en una simple cosa, la comunicación.
 
