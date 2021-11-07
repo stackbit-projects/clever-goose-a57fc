@@ -1,5 +1,5 @@
 ---
-title: Haz cada línea de código como la última
+title: Cómo comunicar ideas efectivamente
 date: '2021-05-01'
 thumb_image_alt: Steve Jobs thinking
 image_alt: A pile of books on the table
